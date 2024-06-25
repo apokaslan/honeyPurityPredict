@@ -13,10 +13,12 @@ Once the downloads are complete, navigate to the directory where the stream.py f
 bash
 cd "folder_name"
 Then, type the following command in the terminal:
-
-bash
+ `
+ bash
 streamlit run stream.py
 You can open the application in a web browser (Chrome, Mozilla, or Internet Explorer) by entering the following URL in the address bar:
+ `
+
 
 arduino
 http://localhost:8501
